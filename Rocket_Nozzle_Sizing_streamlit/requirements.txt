@@ -1,14 +1,11 @@
-matplotlib==3.10.0
 numpy==2.2.1
 pandas==2.2.3
 pillow==10.2.0
-plotly==5.20.0
+plotly==5.24.1
 streamlit==1.41.1
 streamlit-player==0.1.5
 scipy==1.15.1
-rocketcea==1.2.0
+rocketcea==1.2.3
 XlsxWriter==3.2.0
 cadquery==2.5.2
-pyvista==0.43.10
-streamlit-stl==0.0.6
-
+numpy-stl==3.2.0

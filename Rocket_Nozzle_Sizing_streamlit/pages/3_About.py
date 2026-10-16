@@ -25,7 +25,7 @@ hide_menu = '''
         '''
 st.markdown(hide_menu, unsafe_allow_html=True)
 
-st.header("Rocket Nozzle Sizing v1.1.0", divider="gray", anchor=False)
+st.header("Rocket Nozzle Sizing v1.2.0", divider="gray", anchor=False)
 
 st.markdown('''
 This App enables you to design three different types of nozzle contours based on the propulsive parameters of your rocket engine:

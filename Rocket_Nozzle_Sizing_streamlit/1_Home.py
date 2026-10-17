@@ -57,7 +57,7 @@ import importlib.util
 gmsh_ok = importlib.util.find_spec('gmsh') is not None
 gmsh_erro = '' if gmsh_ok else "No module named 'gmsh'"
 
-st.title("Rocket Nozzle Sizing v1.2.0", anchor=False)
+st.title("Rocket Nozzle Sizing v2.0.0", anchor=False)
 
 #SETUP
 
